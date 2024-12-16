@@ -1,5 +1,5 @@
 # README
-I am Ken Sobieski -- *Sobi-Wan Kenobi*, or simply *Sobi-Wan* to some -- and this is my personal README, a version of the [Manager README](https://useworkshop.com/resources/manager-readme-template-example/), using a format from [Mike Petrovich](https://petro.blog/my-personal-readme-13287f18223d) which I found seemed to work well for non-managers . The intent is to help anyone who works with me understand me better.
+I am Ken Sobieski -- *Sobi-Wan Kenobi*, or simply *Sobi-Wan* to some -- and this is my personal README, a version of the [Manager README](https://useworkshop.com/resources/manager-readme-template-example/), using a format from [Mike Petrovich](https://petro.blog/my-personal-readme-13287f18223d) which I found seemed to work well for non-managers. The intent is to help anyone who works with me understand me better.
 
 ## Beliefs
 If there is one thing that overrides all others, it's that relationships matter more than anything else in this world. You can go to work every day, and yet not really *know* anyone, or you can make the effort to build relationships that create trust. A high-trust team will always perform better over the long term.
@@ -7,9 +7,9 @@ If there is one thing that overrides all others, it's that relationships matter 
 I believe a lot of things to be true:
 - estimates of work when used to help a team improve processes are helpful; estimates used as a cudgel to create *commitments* are not
 - *Agile* is meant for small teams to improve their processes and produce *value*; agile at scale does not work well, especially when teams are forced to align on sprints or framework (e.g., Scrum or Kan-ban) rather than do what works best for them
-- it is important to follow *the boyscout rule* and leave code better than you found it; cleanup work that is left for later -- especially when put into a backlog -- will rarely get done
+- it is important to follow *the boy scout rule* and leave code better than you found it; cleanup work that is left for later -- especially when put into a backlog -- will rarely get done
 - Object-oriented languages should follow object-oriented design patterns and standards, while functional languages should be used for functional programming; unlike Reese's Peanut Butter Cups, mixing the two do not *taste great together*
-- Slow is smooth, smooth is fast; working too fast without forethought will take at lest twice as long for rework.
+- Slow is smooth, smooth is fast; working too fast without forethought will take at least twice as long for rework
 - naming things correctly is one of the most important things we do; to ignore the names and underlying concepts will result in bad software that is hard to maintain
 - collaboration between design, engineering, leadership, and *the business* is imperative to successful software; walled off groups with different mental models lead to bad software (see naming above)
 - you can have a team that engineers software or you can have a team that builds to spec; one of these is bad for business
@@ -77,4 +77,4 @@ Give it to me privately. In person is probably best because the tone is conveyed
 
  I may not like or agree with the feedback in the moment, but I *will* sit with it and chew on it. While I try to be self-aware, like anyone, I have areas that are less apparent and I can only get better by hearing others perceptions.
 
- Updated: 2015.11.08
+ Updated: 2024.12.16
