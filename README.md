@@ -1,6 +1,15 @@
 # README
 I am Ken Sobieski -- *Sobi-Wan Kenobi*, or simply *Sobi-Wan* to some -- and this is my personal README, a version of the [Manager README](https://useworkshop.com/resources/manager-readme-template-example/), using a format from [Mike Petrovich](https://petro.blog/my-personal-readme-13287f18223d) which I found seemed to work well for non-managers. The intent is to help anyone who works with me understand me better.
 
+Jump to:
+* [Beliefs](#beliefs)
+* [Strengths](#strengths)
+* [Weaknesses](#weaknesses)
+* [How I Work](#how-i-work)
+* [How to Give Me Feedback](#how-to-give-me-feedback)
+  * [The feedback is positive](#the-feedback-is-positive)
+  * [The feedback is critical](#the-feedback-is-critical)
+
 ## Beliefs
 If there is one thing that overrides all others, it's that relationships matter more than anything else in this world. You can go to work every day, and yet not really *know* anyone, or you can make the effort to build relationships that create trust. A high-trust team will always perform better over the long term.
 
@@ -18,6 +27,8 @@ I believe a lot of things to be true:
 - [Blameless Incident Reports (Postmortems)](https://sre.google/sre-book/postmortem-culture/) are immensely valuable for preventing future, similar problems *if the action items are completed*; fixing blame rather than the root of the problem leads to mistrust and an unwillingness to risk reporting issues
 - All beliefs may flip 180 degrees given proof they are incorrect; incorrect only means that better information wasn't available *at the time the belief was formed*
 
+[Return to Top](#readme)
+
 ## Strengths
 There are a few places I tend to find better success than with others. 
 
@@ -30,6 +41,9 @@ I:
 - try to create a space where it is safe to ask questions
 - am told I have a talent for helping people tease apart code and clean it up, and a surprising amount of patience for it
 - am very much an [ambivert](https://dictionary.cambridge.org/us/dictionary/english/ambivert) and like to get people interacting (don't make me pull out the *dad jokes*); I will probably try to engage people while on a conference call waiting for the meeting to start
+- believe that everyone is probably doing the best they can with what they have
+
+[Return to Top](#readme)
 
 ## Weaknesses
 Like everyone, I have things I struggle with, that can frustrate not only me, but others as well. 
@@ -45,6 +59,9 @@ I:
 - have a tendency to try to solve problems when sometimes all that is needed is someone to listen (if this is the case, be blunt about it)
 - I can have strong opinions that come off as immovable, especially when I feel like I have enough information to *know* I'm right
 - am very much an [ambivert](https://dictionary.cambridge.org/us/dictionary/english/ambivert) and sometimes I can get overwhelmed by too much activity and rah-rahing.
+- I can forget that everyone is probably doing the best they can with what they have
+
+[Return to Top](#readme)
 
 ## How I Work
 I like to collaborate. I ask a lot of questions. I mean *a lot*. I want to know what I am building and why, with language that reflects the common usage in the *customer's* world. This can be frustrating for some because taking time to think through a problem or understand the underlying concept can delay tangible software. I firmly believe that building the wrong thing quickly is orders of magnitude worse than building the right thing at a pace that is slower than desired.
@@ -64,6 +81,8 @@ I have managed to train myself to *not* check email or chat constantly, and foll
 - if you need an answer withing a couple of hours, chat is great
 - if you need an answer right away, call (text may work, too)
 
+[Return to Top](#readme)
+
 ## How to Give Me Feedback
 Please, oh please, try not to ask if I want to have a *chit-chat* or hit me with a *have you got a minute* without context. Like a lot of people, these statements tend to ramp up my anxiety, especially when coming from someone in a leadership role. Context is everything.
 
@@ -77,4 +96,6 @@ Give it to me privately. In person is probably best because the tone is conveyed
 
  I may not like or agree with the feedback in the moment, but I *will* sit with it and chew on it. While I try to be self-aware, like anyone, I have areas that are less apparent and I can only get better by hearing others perceptions.
 
- Updated: 2024.12.16
+[Return to Top](#readme)
+
+Updated: 2024.12.16
